@@ -1,2 +1,50 @@
 Linux eeee4-TM1703 4.15.0-42-generic #45~16.04.1-Ubuntu SMP Mon Nov 19 13:02:27 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
 
+MemTotal:        8075196 kB
+MemFree:         4348412 kB
+MemAvailable:    5221152 kB
+Buffers:           61864 kB
+Cached:          1514220 kB
+SwapCached:            0 kB
+Active:          2371500 kB
+Inactive:        1109748 kB
+Active(anon):    1906312 kB
+Inactive(anon):   513544 kB
+Active(file):     465188 kB
+Inactive(file):   596204 kB
+Unevictable:          48 kB
+Mlocked:              48 kB
+SwapTotal:       1000444 kB
+SwapFree:        1000444 kB
+Dirty:                76 kB
+Writeback:             0 kB
+AnonPages:       1905448 kB
+Mapped:           482140 kB
+Shmem:            514688 kB
+Slab:             118156 kB
+SReclaimable:      71440 kB
+SUnreclaim:        46716 kB
+KernelStack:       11536 kB
+PageTables:        36780 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5038040 kB
+Committed_AS:    6344768 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      132724 kB
+DirectMap2M:     5017600 kB
+DirectMap1G:     3145728 kB

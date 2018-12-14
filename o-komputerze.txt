@@ -1,0 +1,2 @@
+Linux eeee4-TM1703 4.15.0-42-generic #45~16.04.1-Ubuntu SMP Mon Nov 19 13:02:27 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
